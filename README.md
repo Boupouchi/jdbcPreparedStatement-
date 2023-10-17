@@ -29,5 +29,9 @@ Overall, this application provides a comprehensive set of features for client an
 
 ## Screenshots
 
-![App Screenshot]()
+![App Screenshot](![image7](https://github.com/Boupouchi/jdbcPreparedStatement-/assets/81436882/6400351b-c411-48cd-a514-230e111063db))
+![App Screenshot](![image8](https://github.com/Boupouchi/jdbcPreparedStatement-/assets/81436882/2bc694a2-d2d7-4b69-8ca9-4d9f146aff3a))
+![App Screenshot](![image9](https://github.com/Boupouchi/jdbcPreparedStatement-/assets/81436882/1394752c-9f02-4f1d-80be-f1641c258eb8))
+![App Screenshot](![image13](https://github.com/Boupouchi/jdbcPreparedStatement-/assets/81436882/b6da0865-b66d-482c-9f51-4dfc49a03dbd))
+![App Screenshot](![image14](https://github.com/Boupouchi/jdbcPreparedStatement-/assets/81436882/369b49a6-05d4-4510-aa2f-8410b5fcf073)))
 
