@@ -21,26 +21,26 @@ public class Test {
         ClientService cs = new ClientService();
         ServiceService ss = new ServiceService();
         
-//        Client c = new Client("rami", "ali", new Date(), ss.findById(2));
-//        cs.create(c);
-//        Client c1 = new Client("rami", "ali", new Date(), ss.findById(2));
-//        cs.create(c1);
-//        Client c2 = new Client("rami", "ali", new Date(), ss.findById(3));
-//        cs.create(c2);
-//        Client c3 = new Client("rami", "ali", new Date(), ss.findById(3));
-//        cs.create(c3);
-//        Client c4 = new Client("rami", "ali", new Date(), ss.findById(3));
-//        cs.create(c4);
+        Client c = new Client("rami", "ali", new Date(), ss.findById(2));
+        cs.create(c);
+        Client c1 = new Client("rami", "ali", new Date(), ss.findById(2));
+        cs.create(c1);
+        Client c2 = new Client("rami", "ali", new Date(), ss.findById(3));
+        cs.create(c2);
+        Client c3 = new Client("rami", "ali", new Date(), ss.findById(3));
+        cs.create(c3);
+        Client c4 = new Client("rami", "ali", new Date(), ss.findById(3));
+        cs.create(c4);
         
-      //  System.out.println(cs.findById(2));
-//        cs.delete(cs.findById(2));
-//        for(Service s : ss.findAll()){
-//            System.out.println("Service :"+s.getNom());
-//            for(Client c : cs.findAll()){
-//                if(c.getService().getId() == s.getId())
-//                    System.out.println("########## " +c.getNom()+" "+c.getPrenom());
-//            }
-//        }
+        /*        System.out.println(cs.findById(2));
+        cs.delete(cs.findById(2));
+        for(Service s : ss.findAll()){
+        System.out.println("Service :"+s.getNom());
+        for(Client c : cs.findAll()){
+        if(c.getService().getId() == s.getId())
+        System.out.println("########## " +c.getNom()+" "+c.getPrenom());
+        }
+        }*/
         
         
         cs.delete(cs.findById(3));
